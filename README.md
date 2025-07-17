@@ -34,15 +34,15 @@ A modern, responsive to-do list application built with Angular and Tailwind CSS,
 2. Install dependencies:
   ```bash
   npm install
-
+  ```
 3. Start the development server:
 
  ```bash
   ng serve
-
+  ```
 4. Open your browser at:
  ```bash
  http://localhost:4200/
 
-
+```
 
