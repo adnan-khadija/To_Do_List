@@ -30,9 +30,8 @@ A modern, responsive to-do list application built with Angular and Tailwind CSS,
    ```bash
    git clone https://github.com/adnan-khadija/To_Do_List.git
    cd To_Do_List
-
+   ```
 2. Install dependencies:
-
   ```bash
   npm install
 
